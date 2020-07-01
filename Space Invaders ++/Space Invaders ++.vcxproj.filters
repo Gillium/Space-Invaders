@@ -13,10 +13,51 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\Engine">
+      <UniqueIdentifier>{72f89a59-8113-4407-88a4-12c9220d971f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\FileIO">
+      <UniqueIdentifier>{54682370-f21f-4e57-90f5-f0a5158be337}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\GameObjects">
+      <UniqueIdentifier>{2fec44ca-3891-4215-92ff-4c65c1ce18ca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens">
+      <UniqueIdentifier>{63c1378b-34e8-4ee6-810c-5212cf78c384}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Select">
+      <UniqueIdentifier>{b980cd71-85ee-4c77-8067-2769b8f6a5b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Screens\Game">
+      <UniqueIdentifier>{141a1bd7-2830-4349-8951-4c8eb7260000}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine">
+      <UniqueIdentifier>{54c65063-22eb-4dc0-822d-9e019ede988f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\FileIO">
+      <UniqueIdentifier>{57a46d42-bb80-42ec-91e1-c1acec5270a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\GameObjects">
+      <UniqueIdentifier>{67ea1909-d631-419d-9682-8b6984d4ab0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Screens">
+      <UniqueIdentifier>{20a10cbf-9205-455f-9081-eefe2a8b600a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Screens\Game">
+      <UniqueIdentifier>{d26b263e-1f84-4eaf-b2fe-e626671826c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Screens\Select">
+      <UniqueIdentifier>{dfb065b4-61fd-4eab-b359-e30a2c899dd7}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DevelopState.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Space Invaders ++.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Engine</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

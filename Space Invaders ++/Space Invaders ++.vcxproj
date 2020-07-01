@@ -146,6 +146,9 @@
   <ItemGroup>
     <ClCompile Include="Space Invaders ++.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DevelopState.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
