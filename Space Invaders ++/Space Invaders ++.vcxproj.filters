@@ -54,9 +54,15 @@
     <ClInclude Include="DevelopState.h">
       <Filter>Header Files\Engine</Filter>
     </ClInclude>
+    <ClInclude Include="GameEngine.h">
+      <Filter>Header Files\Engine</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Space Invaders ++.cpp">
+      <Filter>Source Files\Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEngine.cpp">
       <Filter>Source Files\Engine</Filter>
     </ClCompile>
   </ItemGroup>
