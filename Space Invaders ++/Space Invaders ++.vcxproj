@@ -147,6 +147,7 @@
     <ClCompile Include="BitmapStore.cpp" />
     <ClCompile Include="GameEngine.cpp" />
     <ClCompile Include="ScreenManager.cpp" />
+    <ClCompile Include="ScreenManagerRemoteControl.cpp" />
     <ClCompile Include="SoundEngine.cpp" />
     <ClCompile Include="Space Invaders ++.cpp" />
   </ItemGroup>
@@ -155,6 +156,7 @@
     <ClInclude Include="DevelopState.h" />
     <ClInclude Include="GameEngine.h" />
     <ClInclude Include="ScreenManager.h" />
+    <ClInclude Include="ScreenManagerRemoteControl.h" />
     <ClInclude Include="SoundEngine.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
