@@ -151,6 +151,7 @@
     <ClCompile Include="ScreenManagerRemoteControl.cpp" />
     <ClCompile Include="SoundEngine.cpp" />
     <ClCompile Include="Space Invaders ++.cpp" />
+    <ClCompile Include="UIPanel.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BitmapStore.h" />
@@ -160,6 +161,7 @@
     <ClInclude Include="ScreenManager.h" />
     <ClInclude Include="ScreenManagerRemoteControl.h" />
     <ClInclude Include="SoundEngine.h" />
+    <ClInclude Include="UIPanel.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
