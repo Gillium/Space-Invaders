@@ -148,6 +148,7 @@
     <ClCompile Include="Button.cpp" />
     <ClCompile Include="GameEngine.cpp" />
     <ClCompile Include="InputHandler.cpp" />
+    <ClCompile Include="Screen.cpp" />
     <ClCompile Include="ScreenManager.cpp" />
     <ClCompile Include="ScreenManagerRemoteControl.cpp" />
     <ClCompile Include="SoundEngine.cpp" />
@@ -160,6 +161,7 @@
     <ClInclude Include="DevelopState.h" />
     <ClInclude Include="GameEngine.h" />
     <ClInclude Include="InputHandler.h" />
+    <ClInclude Include="Screen.h" />
     <ClInclude Include="ScreenManager.h" />
     <ClInclude Include="ScreenManagerRemoteControl.h" />
     <ClInclude Include="SoundEngine.h" />
