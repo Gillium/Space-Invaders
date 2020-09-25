@@ -32,7 +32,7 @@ void InputHandler::handleInput(RenderWindow& window, Event& event)
 
 		for (auto i = m_Buttons.begin(); i != end; ++i)
 		{
-			if ((*i)->m_Collider.contains(window.mapCoordsToPixel(Mouse::getPosition(), (*getPointerToUIView()))))
+			if ((*i)->m_Collider.contains(window.mapPixelToCoords(Mouse::getPosition(), (*getPointerToUIView()))))
 			{
 				// Capture the text of the button that was interacted with and pass it to the specialised version of this class if implemented
 				handleLeftClick((*i)->m_Text, window);
