@@ -151,6 +151,7 @@
     <ClCompile Include="Screen.cpp" />
     <ClCompile Include="ScreenManager.cpp" />
     <ClCompile Include="ScreenManagerRemoteControl.cpp" />
+    <ClCompile Include="SelectScreen.cpp" />
     <ClCompile Include="SoundEngine.cpp" />
     <ClCompile Include="Space Invaders ++.cpp" />
     <ClCompile Include="UIPanel.cpp" />
@@ -164,6 +165,7 @@
     <ClInclude Include="Screen.h" />
     <ClInclude Include="ScreenManager.h" />
     <ClInclude Include="ScreenManagerRemoteControl.h" />
+    <ClInclude Include="SelectScreen.h" />
     <ClInclude Include="SoundEngine.h" />
     <ClInclude Include="UIPanel.h" />
     <ClInclude Include="WorldState.h" />
