@@ -41,10 +41,10 @@ void InputHandler::handleInput(RenderWindow& window, Event& event)
 		}
 	}
 
-	handleGamePad();
+	handleGamepad();
 }
 
-void InputHandler::handleGamePad()
+void InputHandler::handleGamepad()
 {}// Do nothing unless handled by a derived class
 
 void InputHandler::handleKeyPressed(Event& event, RenderWindow& window)
