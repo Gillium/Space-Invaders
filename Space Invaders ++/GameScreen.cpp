@@ -35,7 +35,7 @@ GameScreen::GameScreen(ScreenManagerRemoteControl* smrc, Vector2i res)
 
 void GameScreen::initialise()
 {
-	m_GIH->initialise();
+	m_GIH->initialize();
 
 	WorldState::NUM_INVADERS = 0;
 
