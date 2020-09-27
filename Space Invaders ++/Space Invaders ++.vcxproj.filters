@@ -99,6 +99,9 @@
     <ClInclude Include="GameInputHandler.h">
       <Filter>Header Files\Screens\Game</Filter>
     </ClInclude>
+    <ClInclude Include="GameUIPanel.h">
+      <Filter>Header Files\Screens\Game</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Space Invaders ++.cpp">
@@ -144,6 +147,9 @@
       <Filter>Source Files\Screens\Game</Filter>
     </ClCompile>
     <ClCompile Include="GameInputHandler.cpp">
+      <Filter>Source Files\Screens\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="GameUIPanel.cpp">
       <Filter>Source Files\Screens\Game</Filter>
     </ClCompile>
   </ItemGroup>
