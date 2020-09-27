@@ -149,6 +149,7 @@
     <ClCompile Include="GameEngine.cpp" />
     <ClCompile Include="GameInputHandler.cpp" />
     <ClCompile Include="GameOverInputHandler.cpp" />
+    <ClCompile Include="GameOverUIPanel.cpp" />
     <ClCompile Include="GameScreen.cpp" />
     <ClCompile Include="GameUIPanel.cpp" />
     <ClCompile Include="InputHandler.cpp" />
@@ -169,6 +170,7 @@
     <ClInclude Include="GameEngine.h" />
     <ClInclude Include="GameInputHandler.h" />
     <ClInclude Include="GameOverInputHandler.h" />
+    <ClInclude Include="GameOverUIPanel.h" />
     <ClInclude Include="GameScreen.h" />
     <ClInclude Include="GameUIPanel.h" />
     <ClInclude Include="InputHandler.h" />
