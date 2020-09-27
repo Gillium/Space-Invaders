@@ -7,26 +7,4 @@ D:\VS Projects\Space-Invaders\Space Invaders ++\GameScreen.cpp(28,82): warning C
           [
               T=float
           ]
-  GameUIPanel.cpp
-D:\VS Projects\Space-Invaders\Space Invaders ++\GameUIPanel.cpp(11,8): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-D:\VS Projects\Space-Invaders\Space Invaders ++\GameUIPanel.cpp(10,8): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-  UIPanel.cpp
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xmemory(230,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(1427): message : see reference to function template instantiation 'void std::_Construct_in_place<_Ty,sf::Vector2<float>,int&,int&,int&,int&,int&,std::string&>(_Ty &,sf::Vector2<float> &&,int &,int &,int &,int &,int &,std::string &) noexcept(false)' being compiled
-          with
-          [
-              _Ty=Button
-          ]
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2071): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<sf::Vector2<float>,int&,int&,int&,int&,int&,std::string&>(sf::Vector2<float> &&,int &,int &,int &,int &,int &,std::string &)' being compiled
-          with
-          [
-              _Ty=Button
-          ]
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\memory(2072): message : see reference to function template instantiation 'std::_Ref_count_obj2<_Ty>::_Ref_count_obj2<sf::Vector2<float>,int&,int&,int&,int&,int&,std::string&>(sf::Vector2<float> &&,int &,int &,int &,int &,int &,std::string &)' being compiled
-          with
-          [
-              _Ty=Button
-          ]
-D:\VS Projects\Space-Invaders\Space Invaders ++\UIPanel.cpp(36): message : see reference to function template instantiation 'std::shared_ptr<Button> std::make_shared<Button,sf::Vector2f,int&,int&,int&,int&,int&,std::string&>(sf::Vector2f &&,int &,int &,int &,int &,int &,std::string &)' being compiled
-  Generating Code...
   Space Invaders ++.vcxproj -> D:\VS Projects\Space-Invaders\Space Invaders ++\Debug\Space Invaders ++.exe
