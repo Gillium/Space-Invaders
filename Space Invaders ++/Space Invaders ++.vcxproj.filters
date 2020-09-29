@@ -120,6 +120,9 @@
     <ClInclude Include="GraphicsComponent.h">
       <Filter>Header Files\GameObjects</Filter>
     </ClInclude>
+    <ClInclude Include="StandardGraphicsComponent.h">
+      <Filter>Header Files\GameObjects</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Space Invaders ++.cpp">

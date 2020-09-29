@@ -189,6 +189,7 @@
     <ClInclude Include="SelectScreen.h" />
     <ClInclude Include="SelectUIPanel.h" />
     <ClInclude Include="SoundEngine.h" />
+    <ClInclude Include="StandardGraphicsComponent.h" />
     <ClInclude Include="UIPanel.h" />
     <ClInclude Include="WorldState.h" />
   </ItemGroup>
