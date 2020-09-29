@@ -154,6 +154,7 @@
     <ClCompile Include="GameOverUIPanel.cpp" />
     <ClCompile Include="GameScreen.cpp" />
     <ClCompile Include="GameUIPanel.cpp" />
+    <ClCompile Include="GraphicsComponent.cpp" />
     <ClCompile Include="InputHandler.cpp" />
     <ClCompile Include="RectColliderComponent.cpp" />
     <ClCompile Include="Screen.cpp" />
@@ -178,6 +179,7 @@
     <ClInclude Include="GameOverUIPanel.h" />
     <ClInclude Include="GameScreen.h" />
     <ClInclude Include="GameUIPanel.h" />
+    <ClInclude Include="GraphicsComponent.h" />
     <ClInclude Include="InputHandler.h" />
     <ClInclude Include="RectColliderComponent.h" />
     <ClInclude Include="Screen.h" />
