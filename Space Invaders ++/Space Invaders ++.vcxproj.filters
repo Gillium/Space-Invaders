@@ -191,5 +191,8 @@
     <ClCompile Include="GraphicsComponent.cpp">
       <Filter>Source Files\GameObjects</Filter>
     </ClCompile>
+    <ClCompile Include="StandardGraphicsComponent.cpp">
+      <Filter>Source Files\GameObjects</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -5,7 +5,7 @@
 
 class Component;
 
-class StandardGraphicsComponenent : public GraphicsComponent
+class StandardGraphicsComponent : public GraphicsComponent
 {
 private:
 	sf::Sprite m_Sprite;
