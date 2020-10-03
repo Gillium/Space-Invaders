@@ -168,6 +168,7 @@
     <ClCompile Include="StandardGraphicsComponent.cpp" />
     <ClCompile Include="TransformComponent.cpp" />
     <ClCompile Include="UIPanel.cpp" />
+    <ClCompile Include="UpdateComponent.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BitmapStore.h" />
@@ -194,6 +195,7 @@
     <ClInclude Include="StandardGraphicsComponent.h" />
     <ClInclude Include="TransformComponent.h" />
     <ClInclude Include="UIPanel.h" />
+    <ClInclude Include="UpdateComponent.h" />
     <ClInclude Include="WorldState.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
