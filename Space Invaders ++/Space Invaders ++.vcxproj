@@ -166,6 +166,7 @@
     <ClCompile Include="SoundEngine.cpp" />
     <ClCompile Include="Space Invaders ++.cpp" />
     <ClCompile Include="StandardGraphicsComponent.cpp" />
+    <ClCompile Include="TransformComponent.cpp" />
     <ClCompile Include="UIPanel.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -191,6 +192,7 @@
     <ClInclude Include="SelectUIPanel.h" />
     <ClInclude Include="SoundEngine.h" />
     <ClInclude Include="StandardGraphicsComponent.h" />
+    <ClInclude Include="TransformComponent.h" />
     <ClInclude Include="UIPanel.h" />
     <ClInclude Include="WorldState.h" />
   </ItemGroup>
