@@ -145,6 +145,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BitmapStore.cpp" />
+    <ClCompile Include="BulletUpdate.cpp" />
     <ClCompile Include="Button.cpp" />
     <ClCompile Include="ColliderComponent.cpp" />
     <ClCompile Include="Component.cpp" />
@@ -172,6 +173,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BitmapStore.h" />
+    <ClInclude Include="BulletUpdateComponent.h" />
     <ClInclude Include="Button.h" />
     <ClInclude Include="ColliderComponent.h" />
     <ClInclude Include="Component.h" />
